@@ -40,4 +40,5 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This is a blog post](https://dev.to/ihteshamulhaq510/this-is-a-blog-post-4bke)
 <!-- BLOG-POST-LIST:END -->
