@@ -43,5 +43,4 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://dev.to/ihteshamulhaq510/ 
 <!-- BLOG-POST-LIST:END -->
