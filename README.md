@@ -6,10 +6,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ihtesham510&label=Profile%20views&color=0e75b6&style=flat" alt="ihtesham510" /> </p>
 <a href="https://github.com/ihtesham510/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtesham510&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Stats" hight="225" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtesham510&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Stats" hight="200" width="400"/>
 </a>
 <a href="https://github.com/ihtesham510/github-readme-stats">
-  <img align="right" src="https://streak-stats.demolab.com?user=ihtesham510&theme=github-dark-blue&hide_border=false" hight="225" width="450"/>
+  <img align="right" src="https://streak-stats.demolab.com?user=ihtesham510&theme=github-dark-blue&hide_border=false" hight="200" width="400"/>
 </a>
 
 ---
