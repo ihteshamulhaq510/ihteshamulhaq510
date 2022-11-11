@@ -40,6 +40,7 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript String methods](https://dev.to/ihteshamulhaq510/javascript-string-methods-8pb)
 - [JS-Project for Beginners.](https://dev.to/ihteshamulhaq510/js-project-for-beginners-41ol)
 - [This is a blog post](https://dev.to/ihteshamulhaq510/this-is-a-blog-post-4bke)
 <!-- BLOG-POST-LIST:END -->
