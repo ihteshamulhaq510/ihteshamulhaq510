@@ -43,5 +43,4 @@
 - [Spice up your Ubuntu terminal &lpar;Using zsh and powerlevel10k repo.&rpar;](https://dev.to/ihteshamulhaq510/spice-up-your-ubuntu-terminal-using-zsh-and-powerlevel10k-repo-1l1b)
 - [JavaScript String methods](https://dev.to/ihteshamulhaq510/javascript-string-methods-8pb)
 - [JS-Project for Beginners.](https://dev.to/ihteshamulhaq510/js-project-for-beginners-41ol)
-- [This is a blog post](https://dev.to/ihteshamulhaq510/this-is-a-blog-post-4bke)
 <!-- BLOG-POST-LIST:END -->
