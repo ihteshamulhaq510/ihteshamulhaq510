@@ -34,9 +34,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-# My Notes
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihtesham510&repo=Javascript-Notes&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
